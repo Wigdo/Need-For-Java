@@ -1,0 +1,4 @@
+Motorcycle,4,100,30
+Car,3,120,50
+Garbage Truck,2,150,100
+GoKart,5,20,10

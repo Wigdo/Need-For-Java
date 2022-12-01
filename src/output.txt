@@ -1,0 +1,10 @@
+Sorry jacqueline, you have died, better luck next time! You travelled a distance of 3 units.
+Sorry jacquelin, you have died, better luck next time! You travelled a distance of 11 units.
+Congratulations jackie, you have escaped ! You have travelled a distance of 24 units!
+Congratulations ari, you have escaped ! You have travelled a distance of 35 units!
+Congratulations Ash, you have escaped ! You have travelled a distance of 14 units!
+Sorry ben, you have died, better luck next time! You travelled a distance of 4 units.
+Congratulations ben, you have escaped ! You have travelled a distance of 10 units!
+Sorry hezz, you have run out of fuel! You travelled a distance of 31 units.
+Sorry Ari, you have run out of fuel! You travelled a distance of 21 units.
+Sorry ari, you have run out of fuel! You travelled a distance of 8 units.
