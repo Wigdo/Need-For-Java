@@ -205,22 +205,6 @@ public class Game
      *@return the user's name.
      */
 
-    /*public void welcomeMessage ()
-    {
-        System.out.println
-
-                (
-                "_  _            _    __             _
-                                | \| |___ ___ __| |  / _|___ _ _    (_)__ ___ ____ _
-                                    | .` / -_) -_) _` | |  _/ _ \ '_|   | / _` \ V / _` |
-            |_|\_\___\___\__,_| |_| \___/_|    _/ \__,_|\_/\__,_|
-                                   |__/
-
-            "
-                        );
-    }
-    */
-
     public String inputName()
     {
         do

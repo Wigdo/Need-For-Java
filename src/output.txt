@@ -8,3 +8,4 @@ Congratulations ben, you have escaped ! You have travelled a distance of 10 unit
 Sorry hezz, you have run out of fuel! You travelled a distance of 31 units.
 Sorry Ari, you have run out of fuel! You travelled a distance of 21 units.
 Sorry ari, you have run out of fuel! You travelled a distance of 8 units.
+Sorry Ari, you have run out of fuel! You travelled a distance of 29 units.
